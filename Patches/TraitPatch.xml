@@ -18,7 +18,7 @@
                         <ShootingAccuracyPawn>.5</ShootingAccuracyPawn>
                         <WorkSpeedGlobal>.2</WorkSpeedGlobal>
                         <SocialImpact>.5</SocialImpact>
-                        <TradePriceImprovement>2</TradePriceImprovement>
+                        <TradePriceImprovement>.2</TradePriceImprovement>
                         <NegotiationAbility>.2</NegotiationAbility>
                         <ResearchSpeed>.2</ResearchSpeed>
                         <ImmunityGainSpeed>.5</ImmunityGainSpeed>

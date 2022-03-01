@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <xpath>/Defs/TraitDef[defName="TM_Apotheosis"]/degreeDatas</xpath>
+        <value>
+            <degreeDatas>
+                <li>
+                    <label>Demi-God</label>
+                    <description>[PAWN_nameDef] is blessed with divine power and absolute control over everything. [PAWN_pronoun] has developed [PAWN_possessive] unique talents through apotheosis [PAWN_objective] the perfect demi-god.</description>
+                    <degree>4</degree>
+                    <statOffsets>
+                        <PsychicSensitivity>50</PsychicSensitivity>
+                        <GlobalLearningFactor>2</GlobalLearningFactor>
+                        <PainShockThreshold>.20</PainShockThreshold>
+                        <MoveSpeed>.5</MoveSpeed>
+                        <MeleeHitChance>2</MeleeHitChance>
+                        <MeleeDodgeChance>2</MeleeDodgeChance>
+                        <ShootingAccuracyPawn>.5</ShootingAccuracyPawn>
+                        <WorkSpeedGlobal>.2</WorkSpeedGlobal>
+                        <SocialImpact>.5</SocialImpact>
+                        <TradePriceImprovement>2</TradePriceImprovement>
+                        <NegotiationAbility>.2</NegotiationAbility>
+                        <ResearchSpeed>.2</ResearchSpeed>
+                        <ImmunityGainSpeed>.5</ImmunityGainSpeed>
+                        <ToxicSensitivity>-.2</ToxicSensitivity>
+                        <MentalBreakThreshold>-0.1</MentalBreakThreshold>
+                    </statOffsets>
+                </li>
+            </degreeDatas>
+        </value>
+    </Operation>
+</Patch>

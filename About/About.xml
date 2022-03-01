@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Nerfed Apotheosis DemiGod Class</name>
+	<author>Flixbox</author>
+	<url>https://github.com/Flixbox/Nerfed-Apotheosis-DemiGod-Class</url>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>Flixbox.NerfedApotheosis</packageId>
+	<description>Reduces the stats of the class to a normal amount. Doesn't change the spells or attacks of the class.</description>
+	<modDependencies>
+		<li>
+			<packageId>drakonite.apotheosis</packageId>
+			<displayName>A RimWorld of Magic - Apotheosis DemiGod Class</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2471657844</steamWorkshopUrl>
+			<downloadUrl>https://steamcommunity.com/workshop/filedetails/?id=2471657844</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>drakonite.apotheosis</li>
+	</loadAfter>
+</ModMetaData>
